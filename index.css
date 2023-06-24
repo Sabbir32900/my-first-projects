@@ -3,7 +3,6 @@ body{
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 section{
     position: relative;
@@ -12,7 +11,6 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-
 }
 section header{
     position: absolute;
@@ -39,7 +37,6 @@ section header ul li a{
     text-decoration: none;
     font-size: 13px;
 }
-
 section header ul li button{
     background-color: #4584ef;
     border: none;
@@ -86,7 +83,6 @@ section .mine .box .icon{
     justify-content: space-between;
     align-items: center;
     pointer-events: none;
-
 }
 section .mine .buttons{
     margin-top: 20px;
@@ -103,10 +99,6 @@ section .mine .buttons button{
     outline: none;
     text-align: center;
     justify-content: center;
-    
-
-
-
 }
 section .mine .buttons button:hover{
     border: 1px solid #ccc;
